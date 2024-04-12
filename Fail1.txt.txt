@@ -1,3 +1,5 @@
 dRUGI KOMIT
 
 Izmena sa grane 1. 
+
+Nema konflikata.
